@@ -1,0 +1,14 @@
+C:\Users\Shiba\source\repos\exercico3\exercico3\bin\Debug\net8.0\exercico3.exe
+C:\Users\Shiba\source\repos\exercico3\exercico3\bin\Debug\net8.0\exercico3.deps.json
+C:\Users\Shiba\source\repos\exercico3\exercico3\bin\Debug\net8.0\exercico3.runtimeconfig.json
+C:\Users\Shiba\source\repos\exercico3\exercico3\bin\Debug\net8.0\exercico3.dll
+C:\Users\Shiba\source\repos\exercico3\exercico3\bin\Debug\net8.0\exercico3.pdb
+C:\Users\Shiba\source\repos\exercico3\exercico3\obj\Debug\net8.0\exercico3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shiba\source\repos\exercico3\exercico3\obj\Debug\net8.0\exercico3.AssemblyInfoInputs.cache
+C:\Users\Shiba\source\repos\exercico3\exercico3\obj\Debug\net8.0\exercico3.AssemblyInfo.cs
+C:\Users\Shiba\source\repos\exercico3\exercico3\obj\Debug\net8.0\exercico3.csproj.CoreCompileInputs.cache
+C:\Users\Shiba\source\repos\exercico3\exercico3\obj\Debug\net8.0\exercico3.dll
+C:\Users\Shiba\source\repos\exercico3\exercico3\obj\Debug\net8.0\refint\exercico3.dll
+C:\Users\Shiba\source\repos\exercico3\exercico3\obj\Debug\net8.0\exercico3.pdb
+C:\Users\Shiba\source\repos\exercico3\exercico3\obj\Debug\net8.0\exercico3.genruntimeconfig.cache
+C:\Users\Shiba\source\repos\exercico3\exercico3\obj\Debug\net8.0\ref\exercico3.dll
